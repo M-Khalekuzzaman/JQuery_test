@@ -1,0 +1,11 @@
+.para-style{
+   background-color: brown; 
+   margin-top: 5px;
+   padding: 5px;
+   color: white;
+   border-radius: 5px;
+   font-family: serif;
+   font-size: 1.5rem;
+   text-align: justify;
+
+}
